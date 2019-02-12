@@ -9,9 +9,9 @@ Telefones: (11) 3923-4750 / (11) 97769-6564<br />
 E-mail: amos.silva@gmail.com<br />
 Idade: 31 anos<br />
 
-##Projetos
+## Projetos
 
-###Catho
+### Catho
 
 **Refatoração do site (Busca de Vagas)**
 
@@ -24,7 +24,7 @@ Refatoração do aplicativo já existente. Participei na integração entre o ap
 para o candidado. O programa foi criado em Ruby, onde fazia a gestão de mensagens junto com 
 um gerenciador de fila RabbitMQ.
 
-###E-htl
+### E-htl
 
 **Executivo** (https://play.google.com/store/apps/details?id=br.com.ehtl.executivo)
 
@@ -41,14 +41,14 @@ quanto técnicas (status de serviços AWS). Desenvolvido em Angular.
 Framework de tabelas dinâmicas utilizado pela companhia, baseado em callbacks. 
 Feito em puro Javascript, com extensão feita para AngularJs.
 
-###Iron Mountain
+### Iron Mountain
 
 **Migração Kofax 10**
 
 Padronização e centralização do sistema Kofax Capture e de 150 projetos de digitalização nas unidades 
 Iron Mountain do Brasil.
 
-##Formação
+## Formação
 
 * Design Thinking - Catho - Novembro/2018
 * Agile Bootcamp - Udemy - Novembro/2017
@@ -57,7 +57,7 @@ Iron Mountain do Brasil.
 * Frontend AngularJs 2.0 - School of Net - Março/2017
 * Sistemas de Informação - Centro Universitário Radial - Agosto/2006 - Dezembro/2008
 
-##Outras habilidades
+## Outras habilidades
 
 **Front-end**
 
