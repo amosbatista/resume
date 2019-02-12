@@ -11,21 +11,37 @@ Projetos
 
 Catho
 Refatoração do site (Busca de Vagas)
-A Busca de Vagas foi desacoplada do restante do site, e foi refeita em React.JS. O projeto é servido em servidor NEXT.JS.
+A Busca de Vagas foi desacoplada do restante do site, e foi refeita em React.JS. 
+O projeto é servido em servidor NEXT.JS.
 Novo aplicativo
-Refatoração do aplicativo já existente. Participei na integração entre o app e os serviços de mensagens para o candidado. O programa foi criado em Ruby, onde fazia a gestão de mensagens junto com um gerenciador de fila RabbitMQ.
+Refatoração do aplicativo já existente. Participei na integração entre o app e os serviços de mensagens 
+para o candidado. O programa foi criado em Ruby, onde fazia a gestão de mensagens junto com 
+um gerenciador de fila RabbitMQ.
 
 E-htl
 Executivo
-Criação de aplicativo para gestão de carteira de clientes para executivos da companhia. Foi desenvolvido em AngularJs 1.x, criado sob a plataforma Cordova.
+Criação de aplicativo para gestão de carteira de clientes para executivos da companhia. 
+Foi desenvolvido em AngularJs 1.x, criado sob a plataforma Cordova.
 Dashboard - Perfomance
-Dashboard interno para análise de métricas, tanto comerciais (gestão de vendas), quanto técnicas (status de serviços AWS).
+Dashboard interno para análise de métricas, tanto comerciais (gestão de vendas), 
+quanto técnicas (status de serviços AWS).
 Masterrow
-Framework de tabelas dinâmicas utilizado pela companhia, baseado em callbacks. Feito em puro Javascript, com extensão feita para AngularJs.
+Framework de tabelas dinâmicas utilizado pela companhia, baseado em callbacks. 
+Feito em puro Javascript, com extensão feita para AngularJs.
 
 Iron Mountain
 Migração Kofax 10
-Padronização e centralização do sistema Kofax Capture e de 150 projetos de digitalização nas unidades Iron Mountain do Brasil.
+Padronização e centralização do sistema Kofax Capture e de 150 projetos de digitalização nas unidades 
+Iron Mountain do Brasil.
+
+Formação
+
+Design Thinking - Catho - Novembro/2018
+Agile Bootcamp - Udemy - Novembro/2017
+VueJS - School of Net - Junho/2017
+Apache Cordova - Lynda.com - Abril/2017
+Frontend AngularJs 2.0 - School of Net - Março/2017
+Sistemas de Informação - Centro Universitário Radial - Agosto/2006 - Dezembro/2008
 
 Outras habilidades
 Front-end
@@ -43,10 +59,8 @@ Conhecimento no pacote de soluções AWS.
 
 Outros
 Experiência em desenvolvimento Ágil, tanto em Kanban quanto em Scrum.
-Experiẽncia em Microserviços, SOLID, Testes Unitários.
+Experiẽncia em Microserviços, SOLID, testes unitários.
 Conhecimentos em desenvolvimento de jogos em Unity. 
-
-Formação Técnica
 
 Experiência profissional (Manutenção de sistema, focado em BAU)
 Catho - Novembro/2017 - Fevereiro/2019
