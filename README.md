@@ -48,6 +48,13 @@ Feito em puro Javascript, com extensão feita para AngularJs.
 Padronização e centralização do sistema Kofax Capture e de 150 projetos de digitalização nas unidades 
 Iron Mountain do Brasil.
 
+### Resumo de Experiência profissional (Manutenção de sistema, focado em BAU)
+* Catho - Novembro/2017 - Fevereiro/2019
+* E-htl - Julho/2016 - Novembro/2017
+* Focus Media (Estágio) - Abril/2016 - Julho/2016
+* Systemplan - Agosto/2015 - Novembro/2015
+* Iron Mountain do Brasil - Fevereiro/2008 - Janeiro/2015
+
 ## Formação
 
 * Design Thinking - Catho - Novembro/2018
@@ -80,10 +87,3 @@ Iron Mountain do Brasil.
 * Experiẽncia em Microserviços, SOLID, testes unitários.
 * Conhecimentos em desenvolvimento de jogos em Unity. 
 * Inglês em nível avançado.
-
-**Experiência profissional** (Manutenção de sistema, focado em BAU)
-* Catho - Novembro/2017 - Fevereiro/2019
-* E-htl - Julho/2016 - Novembro/2017
-* Focus Media (Estágio) - Abril/2016 - Julho/2016
-* Systemplan - Agosto/2015 - Novembro/2015
-* Iron Mountain do Brasil - Fevereiro/2008 - Janeiro/2015
