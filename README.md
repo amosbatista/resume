@@ -13,37 +13,41 @@ Idade: 31 anos<br />
 
 ### Catho
 
-**Refatoração do site (Busca de Vagas)**
+**Refatoração do site (Busca de Vagas) (2018)**
 
 A Busca de Vagas foi desacoplada do restante do site, e foi refeita em React.JS. 
 O projeto é servido em servidor NEXT.JS.
 
-**Novo aplicativo** (https://play.google.com/store/apps/details?id=br.com.catho.app.vagas.empregos)
+**Novo aplicativo (2017)**
+
+https://play.google.com/store/apps/details?id=br.com.catho.app.vagas.empregos
 
 Refatoração do aplicativo já existente. Participei na integração entre o app e os serviços de mensagens 
-para o candidado. O programa foi criado em Ruby, onde fazia a gestão de mensagens junto com 
+para o candidato. O programa foi criado em Ruby, onde fazia a gestão de mensagens junto com 
 um gerenciador de fila RabbitMQ.
 
 ### E-htl
 
-**Executivo** (https://play.google.com/store/apps/details?id=br.com.ehtl.executivo)
+**Executivo (2016)** 
+
+https://play.google.com/store/apps/details?id=br.com.ehtl.executivo
 
 Criação de aplicativo para gestão de carteira de clientes para executivos da companhia. 
 Foi desenvolvido em AngularJs 1.x, criado sob a plataforma Cordova.
 
-**Dashboard**
+**Dashboard (2016)**
 
 Dashboard interno para análise de métricas, tanto comerciais (gestão de vendas), 
 quanto técnicas (status de serviços AWS). Desenvolvido em Angular.
 
-**Masterrow**
+**Masterrow (2016)**
 
 Framework de tabelas dinâmicas utilizado pela companhia, baseado em callbacks. 
 Feito em puro Javascript, com extensão feita para AngularJs.
 
 ### Iron Mountain
 
-**Migração Kofax 10**
+**Migração Kofax 10 (2014)**
 
 Padronização e centralização do sistema Kofax Capture e de 150 projetos de digitalização nas unidades 
 Iron Mountain do Brasil.
